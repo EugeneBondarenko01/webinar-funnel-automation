@@ -1,2 +1,2 @@
 # webinar-funnel-automation
-ActiveCampaign + Zapier automation for webinar funnel with tagging, segmentation and reminders.
+Fully automated webinar funnel** built with ActiveCampaign and Simvoly for an online course launch.
