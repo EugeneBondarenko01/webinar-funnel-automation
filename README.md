@@ -22,7 +22,8 @@ This project showcases a marketing automation system that:
 Helped increase webinar attendance and automated the sales process,  
 reducing manual work by **90%** through structured automation workflows.
 
-🖼 Visual Map
+🖼 Visual Map ![Webinar funnel](https://github.com/user-attachments/assets/df8219aa-2ada-43c9-be3a-9a98a4de2c61)
+
 
 👤 Author  
 [Eugene Bondarenko – Marketing Automation Specialist](https://www.upwork.com/freelancers/~0108dfb610408b16b2)
