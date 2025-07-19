@@ -24,8 +24,5 @@ reducing manual work by **90%** through structured automation workflows.
 
 🖼 Visual Map
 
-## 📌 Visual Map  
-[Webinar Funnel Map](https://www.upwork.com/freelancers/~0108dfb610408b16b2?p=1934899748882649088)
-
-## 👤 Author  
+👤 Author  
 [Eugene Bondarenko – Marketing Automation Specialist](https://www.upwork.com/freelancers/~0108dfb610408b16b2)
