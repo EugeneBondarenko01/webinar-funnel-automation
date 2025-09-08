@@ -26,4 +26,4 @@ reducing manual work by **90%** through structured automation workflows.
 
 
 👤 Author  
-[Eugene Bondarenko – Marketing Automation Specialist](https://www.upwork.com/freelancers/~0108dfb610408b16b2)
+[Eugene Bondarenko – Marketing Automation Specialist]https://www.upwork.com/freelancers/~0108dfb61b408b16b2?p=1934899748882649088
